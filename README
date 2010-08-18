@@ -1,0 +1,5 @@
+Project to program LPC1xxx and LPC2xxx using their built in bootloader
+
+Also program AVR's using FTDI bitbang mode
+
+Also have a 4-pin header with serial and

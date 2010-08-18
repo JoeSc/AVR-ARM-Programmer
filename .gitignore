@@ -1,0 +1,14 @@
+#Get rid of Stupid DS store files
+.DS_Storei
+
+
+# Firmware Images
+*.elf
+*.bin
+*.hex
+
+# stupid eagle files
+
+*.b#*
+*.s#*
+
